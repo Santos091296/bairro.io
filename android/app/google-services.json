@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "220551105572",
+    "project_id": "bairro-iva1hx",
+    "storage_bucket": "bairro-iva1hx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220551105572:android:c2609dd985a25083be5cb1",
+        "android_client_info": {
+          "package_name": "com.mycompany.bairro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220551105572-jtcqvo45ik0k2gbat1fjuime1jp1cp3i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.bairro",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "220551105572-1nps8canvq21nu4f7k472r75hd11pis8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ7iyw8Onk1XcL8FPFjHYzPwt1uIRU1DE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220551105572-1nps8canvq21nu4f7k472r75hd11pis8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "220551105572-hhc9q279ql6816tknfrdp5h6j80b511t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.bairro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
