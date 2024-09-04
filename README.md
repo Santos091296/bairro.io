@@ -1,8 +1,9 @@
 # Bairro.io
 
 ![GitHub repo size](https://img.shields.io/badge/Tamanho%20-%200%2C98%20mb%20-%20blue%20)
+![GitHub language count](https://img.shields.io/badge/Linguagem%20-%20PT%20%20-%20blue%20)
 
-<img src="assets/images/img.png" alt="Exemplo imagem"> <img src="assets/images/img3.png" alt="Exemplo imagem">
+<img src="assets/images/img.png" alt="Exemplo imagem">
 
 
 ## 🚩 Apresentação
